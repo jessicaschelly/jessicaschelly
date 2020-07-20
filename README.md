@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Jessica Souza (but you can call me Jess). I'm from Florianópolis, Brazil and I'm a QA Engineer.
+I'm Jessica Souza (but you can call me Jess). I'm from Florianópolis, Brazil and I'm a QA Engineer working remotly for more than 1 year.
 
 * :bulb: I'm an undergraduate student in Information Systems;
 * :computer: Favorite Tech: Python and JavaScript. I also like to work with some test frameworks such as Cypress and Selenium;
