@@ -1,14 +1,14 @@
-<p align="center">
-  <img src="https://i.pinimg.com/originals/e7/78/68/e778687b6995f5d90e2ee9dd9dc43e4e.png" width="200px">
-  <br>
-  <samp>
-    Hello, I'm Jessica!
-    Quality Assurance Engineer at CGS<br>
-    :school: Currently studying Information Systems at University of Santa Catarina<br>
-    :sparkles: Favorite Tech: Python, Java, C# and Selenium <br>
-    :notebook: I’m currently learning Cypress and others automation tools such as Appium and TestLink <br>
-    :email:	jessica_schelly@hotmail.com <br>
-    :pencil: <a href="https://jessicaschelly.github.io/">Resume</a> <br>
-    :briefcase: <a href="https://www.linkedin.com/in/jessica-schelly/">LinkedIn</a> <br>
-  </samp>
-</p>
+### Hi there 👋
+
+I'm Jessica Souza (but you can call me Jess). I'm from Florianópolis, Brazil and I'm a QA Engineer.
+
+* :bulb: I'm an undergraduate student in Information Systems;
+* :computer: Favorite Tech: Python and JavaScript. I also like to work with some test frameworks such as Cypress and Selenium;
+* :dog: I love animals and I have a pet named Pingo; 
+* :email: Feel free to [e-mail](mailto:jessica_schelly@hotmail.com.com) me.
+
+Also you can following me on: 
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/jessica-schelly/)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/jessicaschelly/)
+
