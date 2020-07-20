@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-I'm Jessica Souza (but you can call me Jess). I'm from Florianópolis, Brazil and I'm a QA Engineer working remotly for more than 1 year.
+I'm Jessica Souza (but you can call me Jess). I'm from Florianópolis, Brazil and I'm a QA Engineer.
 
-* :bulb: I'm an undergraduate student in Information Systems;
+* :bulb: I'm an undergraduate student in Information Systems and i'm working remotly for more than 1 year.;
 * :computer: Favorite Tech: Python and JavaScript. I also like to work with some test frameworks such as Cypress and Selenium;
 * :dog: I love animals and I have a pet named Pingo; 
 * :email: Feel free to [e-mail](mailto:jessica_schelly@hotmail.com.com) me.
