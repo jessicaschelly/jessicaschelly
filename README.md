@@ -7,7 +7,7 @@ I'm Jessica Souza (but you can call me Jess). I'm from Florianópolis, Brazil an
 * :dog: I love animals and I have a dog named Pingo
 * :email: Feel free to [e-mail](mailto:jessica_schelly@hotmail.com.com) me
 
-Also you can following me on: 
+Also you can follow me on: 
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/jessica-schelly/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/jessicaschelly/)
