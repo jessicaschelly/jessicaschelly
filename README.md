@@ -1,7 +1,7 @@
 
 Hello there! 👋
 
-Welcome to my GitHub page! I'm Jessica, also known as Jess. I'm based in Florianópolis, Brazil, and I work as a QA Engineer.
+Welcome to my GitHub page! I'm Jessica, also known as Jess.
 
 🎓 I'm currently pursuing my undergraduate degree in Information Systems, and I have been working as a QA for almost 5 years now
 
